@@ -1,4 +1,5 @@
-## Hi there 👋
+
+😁 This is the start of my github journey and i'm not sure what to add at this point.
 
 <!--
 **truereflectionmedia/truereflectionmedia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
